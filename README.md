@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Garry7888
+- 👋 Hi, I’m @Garry
 - 👀 I’m interested in web 3
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on ...
